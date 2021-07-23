@@ -1,1 +1,0 @@
-WebJob1.exe %*
